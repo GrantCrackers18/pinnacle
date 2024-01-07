@@ -1,4 +1,4 @@
-# ATCNotification
-ATCNotification
+# pinnacle
+Pinnacle
 
-Website for ATCNotification, a program by Norris Ng
+Website for Pinnacle
