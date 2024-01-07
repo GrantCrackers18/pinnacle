@@ -1,0 +1,126 @@
+.navbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    top: 0;
+    padding-bottom: 0.001%;
+    background-color: #0000004d;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+.parallax1 {
+    /* The image used */
+    background-image: url("pic4.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url("pic6.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.why {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 1%;
+}
+
+.why1 {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 1%;
+  color: white;
+  
+}
+
+
+
+.NeverMiss {
+  color: white;
+  padding-top: 15%;
+  font-size: 75px;
+  text-align: center;
+font-family: 'Nunito Sans', sans-serif;
+}
+
+.MeetATCN {
+  padding-top: 1%;
+  font-size: 50px;
+  text-align: center;
+font-family: 'Nunito Sans', sans-serif;
+color: white;
+}
+
+.CardTitle  {
+  font-size: 35px;
+  text-align: center;
+}
+
+.CardText {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.DownloadNow {
+  font-family: 'Metrophobic', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 1.5%;
+  color: white;
+  padding-bottom: 2%;
+}
+
+.form1 {
+  clear: left;
+  padding-top: 5%;
+  padding-left: 45%;
+  padding-right: 45%;
+}
+
+.div1 {
+  clear: left;
+  padding-top: 5%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+
+.Cant {
+  font-family: 'Metrophobic', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.Explanation {
+  font-family: 'Metrophobic', sans-serif;
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.Divs {
+  background-color: #eeeeee;
+}
